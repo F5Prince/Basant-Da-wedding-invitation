@@ -1,7 +1,14 @@
-To set the countdown date see below section in `js/clock.js`
+💍 Basant & Parwati 💍
 
-````
-  // Target future date/24 hour time/Timezone
-  let targetDate = moment.tz("2025-05-01 12:00", "Asia/Kolkata");
-````
+Together with their families,
+Basant and Parwati
+joyfully invite you to celebrate their union.
 
+Date: Thursday, 1st May 2025
+Time: [12:00 AM]
+Venue: [Dighi , Patamda]
+
+Your presence will make this occasion truly special.
+
+With love,
+The Families of Basant & Parwati
